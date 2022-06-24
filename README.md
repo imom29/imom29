@@ -1,5 +1,4 @@
 
-[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://www.linkedin.com/in/im-om29/)
 <h1 align="center">Hi 👋, I'm Om Tita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" align="right" alt="Coding">
