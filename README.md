@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Om Tita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" align="right" alt="Coding">
 
-- 🔭 I’m currently working on [Any-Doubts](https://github.com/keval-mandalik/Any-Doubts)
+- 🔭 I’m currently working as an associate software engineer at Jeavio.
 
-- 🌱 I’m currently learning **NodeJs, MongoDB**
+- 🌱 I have extensive experience building high-quality software using Node.js, Express.js, and both SQL and NoSQL databases.
 
-- 💬 Ask me about **FrontEnd Development**
+- 💬 Ask me about **Backend Development**, I would be happy to chat. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
